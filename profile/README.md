@@ -18,7 +18,7 @@ Its modular architecture encourages reusable components and smooth integration o
 <h2 align="start">Useful Links</h2>
 <p align="start">
   <a href="https://ewwii-sh.github.io/">Website</a> |
-  <a href="https://ewwii-sh.github.io/ewwii">Documentation</a> |
+  <a href="https://ewwii-sh.github.io/ewwii">Ewwii Docs</a> |
   <a href="https://ewwii-sh.github.io/eiipm">Eiipm Docs</a> |
   <a href="link-to-discord">Discord</a>
 </p>
