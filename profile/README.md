@@ -1,20 +1,16 @@
-# Ewwii
+<h1 align="center">Ewwii</h1>
 
-**Ewwii** is a fork of **Eww** which is a widget system made in [Rust](https://www.rust-lang.org/), which lets you create your own widgets similarly to how you can in AwesomeWM.
+<p align="center">
+<b>Ewwii</b> is a Rust-based GTK widget system and a fork of <b>Eww</b>. 
+It lets you create and compose your own widgets, configure them with scripts and expressions, 
+and manage themes, packages, and binaries using its custom package manager <code>eiipm</code>. 
+Ewwii also includes built-in configuration libraries and developer tooling for a smooth experience.
+</p>
 
-Ewwii supports a custom package manager named `eiipm` which can be used to install themes, packages, binaries etc. which can be used to configure ewwii.
-
-## Features
-
-- Full-fledged scripting & expressions
-- Custom package manager: `eiipm`
-- User-defined widget trees & composition
-- Built-in configuration libraries
-- Builtin tooling for better developer experience
-
-## Useful Links
-
-- [Website](https://ewwii-sh.github.io/)
-- [Documentation](https://ewwii-sh.github.io/ewwii)
-- [Eiipm Documentation](https://ewwii-sh.github.io/eiipm)
-- [Discord](link-to-discord)
+<h2 align="center">Useful Links</h2>
+<p align="center">
+  <a href="https://ewwii-sh.github.io/">Website</a> |
+  <a href="https://ewwii-sh.github.io/ewwii">Documentation</a> |
+  <a href="https://ewwii-sh.github.io/eiipm">Eiipm Docs</a> |
+  <a href="link-to-discord">Discord</a>
+</p>
