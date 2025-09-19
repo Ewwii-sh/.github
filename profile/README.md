@@ -3,16 +3,11 @@
 <h1 align="start">Ewwii</h1>
 
 <p align="start">
-<b>Ewwii</b> is a Rust-based GTK widget system and a fork of <b>Eww</b>. 
-It allows developers to create and compose custom widgets, configure them with scripts and expressions, 
-and manage themes, packages, and binaries using its custom package manager <code>eiipm</code>. 
-With built-in configuration libraries and developer tooling, Ewwii aims to simplify GUI development while remaining flexible and extensible.
+A fork of <b>Eww</b> rewritten for flexiblity, power, and extensiblity.
 </p>
 
 <p align="start">
-Designed for both hobbyists and power users, Ewwii makes it easy to experiment with layouts, 
-customize your interface, and extend functionality with minimal boilerplate. 
-Its modular architecture encourages reusable components and smooth integration of new widgets.
+It is designed for people seeking power to build fully dynamic widgets and more. It also has a package manager named <b>eiipm</b> which allows users to install packages from the ewwii ecosystem.
 </p>
 
 <h2 align="start">Useful Links</h2>
