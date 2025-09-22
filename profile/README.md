@@ -7,7 +7,7 @@ A fork of <b>Eww</b> rewritten for flexiblity, power, and extensiblity.
 </p>
 
 <p align="start">
-It is designed for people seeking power to build fully dynamic widgets and more. It also has a package manager named <b>eiipm</b> which allows users to install packages from the ewwii ecosystem.
+It is designed to be flexible, powerful, and extensibe. It also has a package manager named <b>eiipm</b> which allows users to install packages from the ewwii ecosystem.
 </p>
 
 <h2 align="start">Useful Links</h2>
