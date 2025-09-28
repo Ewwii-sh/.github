@@ -15,5 +15,6 @@ It is designed to be flexible, powerful, and extensibe. It also has a package ma
   <a href="https://ewwii-sh.github.io/">Website</a> |
   <a href="https://ewwii-sh.github.io/ewwii">Ewwii Docs</a> |
   <a href="https://ewwii-sh.github.io/eiipm">Eiipm Docs</a> |
-  <a href="link-to-discord">Discord</a>
+  <a href="https://discord.com/invite/63bKPx3Wb6">Discord</a>
+  <a href="https://matrix.to/#/#ewwii:matrix.org">Matrix</a>
 </p>
