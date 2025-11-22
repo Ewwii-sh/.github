@@ -13,7 +13,6 @@ It is designed to be flexible, powerful, and extensibe. It also has a package ma
 <h2 align="start">Useful Links</h2>
 <p align="start">
   <a href="https://ewwii-sh.github.io/">Website</a> |
-  <a href="https://ewwii-sh.github.io/ewwii">Ewwii Docs</a> |
-  <a href="https://ewwii-sh.github.io/eiipm">Eiipm Docs</a> |
+  <a href="https://ewwii-sh.github.io/docs">Ewwii Docs</a> |
   <a href="https://discord.com/invite/63bKPx3Wb6">Discord</a>
 </p>
