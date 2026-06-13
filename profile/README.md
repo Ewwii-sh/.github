@@ -1,14 +1,12 @@
 <!-- Could be a lot better -->
 
-<h1 align="start">Ewwii</h1>
+# Ewwii
 
-<p align="start">
-A fork of <b>Eww</b> rewritten for flexiblity, power, and extensiblity.
-</p>
+A fork of <b>Eww</b> rewritten for extensiblity, flexiblity, and power.
 
-<p align="start">
-It is designed to be flexible, powerful, and extensibe. It also has a package manager named <b>eiipm</b> which allows users to install packages from the ewwii ecosystem.
-</p>
+Ewwii is designed to be an extensibe, flexible, and powerful widget system. One of the main features of ewwii is its native, fast plugin system that is capableof replacing even the configuration language of ewwii. And the Gtk4 backend that enables hardware acceleration and more!
+  
+By default, ewwii uses a simple and minimal configuration language called [nbcl](https://nbcl-lang.github.io) that is very easy to pick up. Alongside that, ewwii has an ecosystem of tools and plugins to make the process of customizing your desktop better! [Learn more](https://ewwii-sh.github.io/docs/resources).
 
 <h2 align="start">Useful Links</h2>
 <p align="start">
